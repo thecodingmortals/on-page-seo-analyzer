@@ -49,5 +49,5 @@ class ScrappedImage:
             "img_source": self.get_img_source(),
             "alt_text": self.get_alt_text(),
         }
-        return dict       
+        return dict    
 
